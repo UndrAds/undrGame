@@ -1,0 +1,49 @@
+[
+    {
+        "title": "Run 3",
+        "slug": "run-3-unblocked",
+        "url": "https://en.gameslol.net/data/run-3/index.html",
+        "img": "https://images.crazygames.com/run3b.png"
+    },
+
+    {
+        "slug": "stair-race-3d",
+        "url": "https://slope-game.github.io/rungame/stair-race-3d/",
+        "title": "Stair Race 3D",
+        "img": "https://slope-game.github.io/rungame/stair-race-3d/logo.png"
+    },
+    {
+        "slug": "tunnel-rush-2",
+        "url": "https://slope-game.github.io/rungame/tunnel-rush-2/",
+        "title": "Tunnel Rush 2",
+        "img": "https://slope-game.github.io/rungame/tunnel-rush-2/logo.png"
+    },
+
+    {
+        "slug": "cluster-rush",
+        "url": "https://webglmath.github.io/cluster-rush/",
+        "title": "Cluster Rush",
+        "img": "https://webglmath.github.io/cluster-rush/logo.png"
+    },
+
+    {
+        "slug": "death-run-3d",
+        "url": "https://slope-game.github.io/death-run-3d/",
+        "title": "Death Run 3D",
+        "img": "https://slope-game.github.io/death-run-3d/logo.png"
+    },
+
+    {
+        "slug": "subway-surfers",
+        "url": "https://ubg77.github.io/updatefaqs/subway-surfers/",
+        "title": "Subway Surfers Tokyo",
+        "img": "https://ubg77.github.io/updatefaqs/subway-surfers/logo.png"
+    },
+
+    {
+        "slug": "santa-run-2",
+        "url": "https://bitlifeonline.github.io/santa-run-2/",
+        "title": "Santa  Run 2",
+        "img": "https://bitlifeonline.github.io/santa-run-2/logo.png"
+    }
+]

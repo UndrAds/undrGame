@@ -1,0 +1,32 @@
+[
+    {
+        "slug": "stick-defenders",
+        "url": "https://classroomjq.github.io/stick-defenders/",
+        "title": "Stick Defenders",
+        "img": "https://classroomjq.github.io/stick-defenders/logo.png"
+    },
+    {
+        "slug": "stickman-climb-2",
+        "url": "https://ubg77.github.io/stickman-climb-2/",
+        "title": "Stickman Climb 2",
+        "img": "https://ubg77.github.io/stickman-climb-2/logo.png"
+    },
+    {
+        "slug": "stickman-hook",
+        "url": "https://webglmath.github.io/stickmanhook/",
+        "title": "Stickman Hook",
+        "img": "https://webglmath.github.io/stickmanhook/logo.png"
+    },
+    {
+        "slug": "vex5",
+        "url": "https://slope-game.github.io/newgame/vex5/",
+        "title": "Vex 5",
+        "img": "https://slope-game.github.io/newgame/vex5/logo.png"
+    },
+    {
+        "slug": "ragdoll-archers",
+        "url": "https://bitlifeonline.github.io/ragdoll-archers/",
+        "title": "Ragdoll Archers",
+        "img": "https://bitlifeonline.github.io/ragdoll-archers/logo.png"
+    }
+]

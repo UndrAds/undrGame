@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Gobattle",
+        "slug": "gobattle",
+        "url": "https://bitlifeonline.github.io/gobattle/",
+        "img": "https://bitlifeonline.github.io/gobattle/logo.png"
+    },
+
+    {
+        "title": "Huggy Wuggy Shooter",
+        "slug": "huggy-wuggy-shooter",
+        "url": "https://slope-game.github.io/huggy-wuggy-shooter/",
+        "img": "https://slope-game.github.io/huggy-wuggy-shooter/logo.png"
+    },
+
+    {
+        "title": "Rooftop Snipers",
+        "slug": "rooftop-snipers",
+        "url": "https://webglmath.github.io/rooftop-snipers/",
+        "img": "https://webglmath.github.io/rooftop-snipers/logo.png"
+    }
+]

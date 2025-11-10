@@ -1,0 +1,26 @@
+[
+    {
+        "slug": "parrot-simulator",
+        "url": "https://bitlifeonline.github.io/parrot-simulator/",
+        "title": "Parrot Simulator",
+        "img": "https://bitlifeonline.github.io/parrot-simulator/logo.png"
+    },
+    {
+        "slug": "eugenes-life",
+        "url": "https://bitlifeonline.github.io/class12523/eugenes-life/",
+        "title": "Eugenes Life",
+        "img": "https://bitlifeonline.github.io/assets/logo/eugenes-life.png"
+    },
+    {
+        "slug": "dreadhead-parkour",
+        "url": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
+        "title": "DreadHead Parkour",
+        "img": "https://bitlifeonline.github.io/assets/logo/dreadhead-parkour.png"
+    },
+    {
+        "slug": "raft-life",
+        "url": "https://bitlifeonline.github.io/raft-life/",
+        "title": "Raft Life",
+        "img": "https://bitlifeonline.github.io/raft-life/logo.png"
+    }
+]

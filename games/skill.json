@@ -1,0 +1,46 @@
+[
+    {
+        "slug": "aqua-thrills",
+        "url": "https://classroomjq.github.io/aqua-thrills/",
+        "title": "Aqua Thrills",
+        "img": "https://classroomjq.github.io/aqua-thrills/logo.png"
+    },
+
+    {
+        "slug": "soccer-skills-champions-league",
+        "url": "https://webglmath.github.io/soccer-skills-champions-league/",
+        "title": "Soccer Skills Champions League",
+        "img": "https://webglmath.github.io/soccer-skills-champions-league/logo.png"
+    },
+
+    {
+        "slug": "watermelon-drop",
+        "url": "https://bitlifeonline.github.io/watermelon-drop/",
+        "title": "Watermelon drop",
+        "img": "https://bitlifeonline.github.io/watermelon-drop/logo.png"
+    },
+    {
+        "slug": "ninja-hands",
+        "url": "https://bitlifeonline.github.io/ninja-hands/",
+        "title": "Ninja Hands",
+        "img": "https://bitlifeonline.github.io/ninja-hands/logo.png"
+    },
+    {
+        "slug": "slice-master",
+        "url": "https://bitlifeonline.github.io/slice-master/",
+        "title": "Slice Master",
+        "img": "https://bitlifeonline.github.io/slice-master/logo.png"
+    },
+    {
+        "slug": "fish-eat-fish",
+        "url": "https://bitlifeonline.github.io/fish-eat-fish/",
+        "title": "Fish Eat Fish",
+        "img": "https://bitlifeonline.github.io/fish-eat-fish/logo.png"
+    },
+    {
+        "slug": "cannon-blast",
+        "url": "https://bitlifeonline.github.io/cannon-blast/",
+        "title": "Cannon Blast",
+        "img": "https://bitlifeonline.github.io/cannon-blast/logo.png"
+    }
+]

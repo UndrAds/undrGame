@@ -2,7 +2,7 @@ import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 import { getSubdomain, getTenant } from './lib/tenant';
 
-export async function middleware(request: NextRequest) {
+export default async function proxy(request: NextRequest) {
   const hostname = request.headers.get('host') || '';
   const subdomain = getSubdomain(hostname);
 
